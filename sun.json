@@ -1,0 +1,382 @@
+{
+  "id": "sun-iconic-tweeter",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@iconic_tweeter Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_5821f3cb714b",
+    "display_name": "iconic_tweeter",
+    "user_id": "@iconic_tweeter",
+    "description": "Community Archive-derived proof-of-search sun for @iconic_tweeter.",
+    "document_count": 13441,
+    "word_count": 128953,
+    "active_days": 1229,
+    "emissions": [
+      "Kimuzi_",
+      "Don",
+      "Know",
+      "Coz",
+      "Too",
+      "Hii"
+    ],
+    "generated_at": "2026-06-27T16:12:46.331405+00:00",
+    "color": "#f59e0b",
+    "mass": 11.767
+  },
+  "planets": [
+    {
+      "id": "planet_cfeb29a035dd",
+      "name": "Kimuzi_",
+      "summary": "Archive cluster around kimuzi_: 12121 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "kimuzi_",
+        "dreymwangi",
+        "hata",
+        "see",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e9ba78c09109",
+          "title": "Kimuzi_ receipt from 2019-09-19",
+          "excerpt": "Raid #Area51 heroes r on our side😂 https://t.co/Y0WgKjvw7e",
+          "source_document_id": "1174593941154349056",
+          "timestamp": "2019-09-19T07:59:53+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1174593941154349056",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: kimuzi_, dreymwangi, hata, see."
+        },
+        {
+          "id": "art_c3e5c8704350",
+          "title": "Kimuzi_ receipt from 2024-06-26",
+          "excerpt": "@jaaaamaya @n0ctsavant @RAETHED0N The q tip is close but not good enough 😭",
+          "source_document_id": "1805844047405195708",
+          "timestamp": "2024-06-26T06:02:26+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1805844047405195708",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: kimuzi_, dreymwangi, hata, see."
+        },
+        {
+          "id": "art_ae484909c267",
+          "title": "Kimuzi_ receipt from 2022-09-04",
+          "excerpt": "@Eliiphobe @OvOBrezzzy @kirawontmiss best exchange I have seen all day",
+          "source_document_id": "1566493638451990530",
+          "timestamp": "2022-09-04T18:29:22+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1566493638451990530",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: kimuzi_, dreymwangi, hata, see."
+        },
+        {
+          "id": "art_48b929240313",
+          "title": "Kimuzi_ receipt from 2019-06-03",
+          "excerpt": "Shirooo... We would have never guessed aki... #shiro #auntieboss . Take your own advice😂😂😂😂 https://t.co/HXtqXK0rgp",
+          "source_document_id": "1135655019771027456",
+          "timestamp": "2019-06-03T21:10:30+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1135655019771027456",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: kimuzi_, dreymwangi, hata, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6659aaf27bb5",
+      "proof_score": 1,
+      "mass": 34.796,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_80d01181a452",
+      "name": "Don",
+      "summary": "Archive cluster around don: 350 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "ppl",
+        "think",
+        "say"
+      ],
+      "artifacts": [
+        {
+          "id": "art_576c03b9b119",
+          "title": "Don receipt from 2021-06-23",
+          "excerpt": "@EmmaTolkin @solodeauxleaux Italian... Don't get it",
+          "source_document_id": "1407648023090503680",
+          "timestamp": "2021-06-23T10:33:36+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1407648023090503680",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, ppl, think."
+        },
+        {
+          "id": "art_463314d30d56",
+          "title": "Don receipt from 2022-11-06",
+          "excerpt": "@Just_2_Random @NjabuloChitsiko @Rustyglue @ManziBen2 @JonErlichman @pikaso_me I always assume they don't know how to it themselves 😂",
+          "source_document_id": "1589198182676037632",
+          "timestamp": "2022-11-06T10:09:07+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1589198182676037632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, ppl, think."
+        },
+        {
+          "id": "art_1a189dd1885f",
+          "title": "Don receipt from 2019-11-20",
+          "excerpt": "I don't remember reading apples in Genesis https://t.co/pbjkjlhrWz",
+          "source_document_id": "1197052200285028352",
+          "timestamp": "2019-11-20T07:20:59+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1197052200285028352",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, ppl, think."
+        },
+        {
+          "id": "art_4c093be729bd",
+          "title": "Don receipt from 2020-12-04",
+          "excerpt": "I actually went to the hospital at night coz of this... Don't mix coffee with weed it induces 'tachycardia' which basically means your heart is at like 200bpm https://t.co/kntkemDA2d",
+          "source_document_id": "1334736905955663874",
+          "timestamp": "2020-12-04T05:50:51+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1334736905955663874",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, ppl, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1b5e7791caf1",
+      "proof_score": 0.936,
+      "mass": 26.022,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_25c2b78dd5cf",
+      "name": "Know",
+      "summary": "Archive cluster around know: 246 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "didn",
+        "ppl",
+        "now",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f5c3de71238a",
+          "title": "Know receipt from 2019-07-01",
+          "excerpt": "@BlaiseBukasa_ I know u won't believe it's really the last one but it is https://t.co/yqDidTGPud",
+          "source_document_id": "1145616291782430721",
+          "timestamp": "2019-07-01T08:53:03+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1145616291782430721",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, ppl, now."
+        },
+        {
+          "id": "art_817bf7e46566",
+          "title": "Know receipt from 2020-01-29",
+          "excerpt": "@ngugiwamutari @maxmius At least I know how to spell permutations 😂😂😂",
+          "source_document_id": "1222608150827819009",
+          "timestamp": "2020-01-29T19:51:12+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1222608150827819009",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, ppl, now."
+        },
+        {
+          "id": "art_343b9ca5e167",
+          "title": "Know receipt from 2022-01-24",
+          "excerpt": "@NOTNYAMBURA Y'all be using the STI card like 😭😭😭 bitch you know that's not what it's about",
+          "source_document_id": "1485576027560722434",
+          "timestamp": "2022-01-24T11:31:40+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1485576027560722434",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, ppl, now."
+        },
+        {
+          "id": "art_356d486d32c3",
+          "title": "Know receipt from 2022-09-28",
+          "excerpt": "@savvy_bandits @254_iconicc I hate I know this😭",
+          "source_document_id": "1575107744159318018",
+          "timestamp": "2022-09-28T12:58:44+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1575107744159318018",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, ppl, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d8e25f238e69",
+      "proof_score": 0.901,
+      "mass": 25.043,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_e56b29bf6a69",
+      "name": "Coz",
+      "summary": "Archive cluster around coz: 256 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "coz",
+        "ppl",
+        "think",
+        "now",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_cc3d34c03d35",
+          "title": "Coz receipt from 2022-03-16",
+          "excerpt": "@ke_karenn Bet u r only triggered coz medics were involvedp",
+          "source_document_id": "1504062208103309312",
+          "timestamp": "2022-03-16T11:49:09+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1504062208103309312",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: coz, ppl, think, now."
+        },
+        {
+          "id": "art_7b20a46fdf56",
+          "title": "Coz receipt from 2019-12-25",
+          "excerpt": "Coz Mary can't raise Jesus alone... Hiyo ingekuwa an even better storyline than the current one https://t.co/NX8bze9DE8",
+          "source_document_id": "1209850990989590530",
+          "timestamp": "2019-12-25T14:58:48+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1209850990989590530",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: coz, ppl, think, now."
+        },
+        {
+          "id": "art_390e93990b9c",
+          "title": "Coz receipt from 2019-07-27",
+          "excerpt": "Who saw Nigeria on the top 20 sexiest countries... No one coz they ain't sexy... Kenya was 7th btw #KenyavsNigeria",
+          "source_document_id": "1155135745880985600",
+          "timestamp": "2019-07-27T15:19:57+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1155135745880985600",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: coz, ppl, think, now."
+        },
+        {
+          "id": "art_f0b2d26a999a",
+          "title": "Coz receipt from 2022-05-12",
+          "excerpt": "That Miami is a richer city than Los Angeles does not sit right with me. Is it coz of the drug trade?",
+          "source_document_id": "1524678298068000773",
+          "timestamp": "2022-05-12T09:10:08+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1524678298068000773",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: coz, ppl, think, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6e2bef254cc1",
+      "proof_score": 0.905,
+      "mass": 25.311,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_68763e39f9f7",
+      "name": "Too",
+      "summary": "Archive cluster around too: 235 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "too",
+        "bad",
+        "late",
+        "many",
+        "abigaeldiana"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8851921b6db4",
+          "title": "Too receipt from 2020-04-27",
+          "excerpt": "Too late though https://t.co/LMouL2KheI",
+          "source_document_id": "1254823377887510536",
+          "timestamp": "2020-04-27T17:23:01+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1254823377887510536",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, bad, late, many."
+        },
+        {
+          "id": "art_70fdf8be1eac",
+          "title": "Too receipt from 2019-08-10",
+          "excerpt": "This is too savage... Ona what @Opesh_  did to @mulamwah 😂😂😂😂 https://t.co/PRaqgsGBmE",
+          "source_document_id": "1160194070159011840",
+          "timestamp": "2019-08-10T14:19:56+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1160194070159011840",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, bad, late, many."
+        },
+        {
+          "id": "art_e5d4dcb461fe",
+          "title": "Too receipt from 2019-08-16",
+          "excerpt": "@kanini_mathei Mimi ni mkamba too btw",
+          "source_document_id": "1162452328609456129",
+          "timestamp": "2019-08-16T19:53:27+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1162452328609456129",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, bad, late, many."
+        },
+        {
+          "id": "art_51972cff04cc",
+          "title": "Too receipt from 2024-09-24",
+          "excerpt": "@paulienuh If this was an app or startup he reviewed he'd be super brutal saying it doesn't make sense, collects all your user data, is too expensive e.t.c But he despite knowing all this still went ahead and launched such an app.",
+          "source_document_id": "1838592021923090541",
+          "timestamp": "2024-09-24T14:51:12+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1838592021923090541",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, bad, late, many."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b93c4b1c1e55",
+      "proof_score": 0.896,
+      "mass": 23.673,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_7333c528997c",
+      "name": "Hii",
+      "summary": "Archive cluster around hii: 233 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "hii",
+        "kwa",
+        "stuff",
+        "app",
+        "ama"
+      ],
+      "artifacts": [
+        {
+          "id": "art_95cc0c9e954e",
+          "title": "Hii receipt from 2019-08-12",
+          "excerpt": "😂😂😂😂😂 hii ni gold https://t.co/D1bHVg7w6o",
+          "source_document_id": "1161038009325760512",
+          "timestamp": "2019-08-12T22:13:27+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1161038009325760512",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hii, kwa, stuff, app."
+        },
+        {
+          "id": "art_4d9730218646",
+          "title": "Hii receipt from 2019-08-31",
+          "excerpt": "Jana nimekaa kando ya dem ameiva kwa mat😍😍 dem ameangalia window the entire trip😂😂😂 hata glance hawezi nipea 😢 hii maisha hapana",
+          "source_document_id": "1167715371643785216",
+          "timestamp": "2019-08-31T08:26:54+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1167715371643785216",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hii, kwa, stuff, app."
+        },
+        {
+          "id": "art_b6aa521a04c7",
+          "title": "Hii receipt from 2019-10-19",
+          "excerpt": "Hii kenya takeover ni embarrassing... Madem easier simpost walai😂😂😂",
+          "source_document_id": "1185513719910096896",
+          "timestamp": "2019-10-19T11:11:11+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1185513719910096896",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hii, kwa, stuff, app."
+        },
+        {
+          "id": "art_8b57665be5b0",
+          "title": "Hii receipt from 2019-07-19",
+          "excerpt": "Hii ufala ya kuscreenshot every convo na kuleak imefika WhatsApp 😭😭😭😭😭",
+          "source_document_id": "1152286594210160640",
+          "timestamp": "2019-07-19T18:38:27+00:00",
+          "url": "https://x.com/iconic_tweeter/status/1152286594210160640",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hii, kwa, stuff, app."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c4cd7061b5d2",
+      "proof_score": 0.896,
+      "mass": 23.642,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
